@@ -1,0 +1,3 @@
+This Repository and any files contained with it are confidential and intended solely for use of the individuals or entity to whom are given direct access. If you mistakenly have access to this Repository, please notify the repository owner immediately, and promptly block this website from your system. If you are not on the approved list, you have been notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. 
+
+Copyright© 2021, Truly Integrated Computing Services
